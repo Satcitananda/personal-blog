@@ -1,2 +1,2 @@
 # personal-blog
-Design with HTML and cCSS
+Design with HTML and CSS
